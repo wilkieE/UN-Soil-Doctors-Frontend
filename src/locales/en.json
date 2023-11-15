@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome",
+  "systemName": "Soil Doctors Web Portal",
+  "projectId": "Project ID",
+  "projectName": "Project Name",
+  "currentExpendituresTotal": "Current Expenditures Total",
+  "investmentExpendituresTotal": "Investment Expenditures Total",
+  "technicalAssistanceExpendituresTotal": "Technical Assistance Expenditures Total",
+  "trainingExpendituresTotal": "Training Expenditures Total",
+  "total": "Total",
+  "externallyFinancedGrantsTotal": "Externally Financed Grants Total",
+  "externallyFinancedLoansTotal": "Externally Financed Loans Total",
+  "domesticallyFinancedTotal": "Domestically Financed Total"
+}

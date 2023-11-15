@@ -1,0 +1,14 @@
+{
+  "welcome": "Bem-vindo",
+  "systemName": "Sistema de Reporte das Despesas Financiadas Externamente",
+  "projectId": "ID do Projeto",
+  "projectName": "Nome do Projeto",
+  "currentExpendituresTotal": "Total de Despesas Atuais",
+  "investmentExpendituresTotal": "Total de Despesas de Investimento",
+  "technicalAssistanceExpendituresTotal": "Total de Despesas de Assistência Técnica",
+  "trainingExpendituresTotal": "Total de Despesas de Treinamento",
+  "total": "Total Geral",
+  "externallyFinancedGrantsTotal": "Total de Subvenções Financiadas Externamente",
+  "externallyFinancedLoansTotal": "Total de Empréstimos Financiados Externamente",
+  "domesticallyFinancedTotal": "Total Financiado Domesticamente"
+}
