@@ -13,22 +13,6 @@ This web portal is developed for the United Nations Global Soil Doctors Program.
 - Participants Management and Reporting
 - Responsive Design for Various Devices
 
-## Installation
-
-To set up the project on your local machine, follow these steps:
-
-1. Clone the repository:
-   `git clone <repo_url>`
-
-2. Navigate to the project directory:
-   `cd <project_directory>`
-
-3. Install dependencies:
-   `npm install`
-
-4. Start the application:
-   `npm start`
-
 ## Screenshots
 
 ### Soil Doctors Login Page
@@ -46,6 +30,22 @@ To set up the project on your local machine, follow these steps:
 ### Add User Modal
 
 ![Add user modal](https://github.com/wilkieE/Jambo-App/assets/48595932/09ea3aa8-2228-400e-81a7-7a14998610f2)
+
+## Installation
+
+To set up the project on your local machine, follow these steps:
+
+1. Clone the repository:
+   `git clone <repo_url>`
+
+2. Navigate to the project directory:
+   `cd <project_directory>`
+
+3. Install dependencies:
+   `npm install`
+
+4. Start the application:
+   `npm start`
 
 ## Usage
 
